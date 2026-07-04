@@ -1,191 +1,64 @@
-<h1 align="center">Hi 👋, I'm Nikhil Dongare</h1>
+# 👋 Hi, I'm Nikhil Dongare
 
-<h3 align="center">
-Aspiring Data Scientist | Machine Learning Engineer | Python Developer
-</h3>
+**Aspiring Data Scientist | Machine Learning Engineer | Python Developer**
 
-<p align="center">
-Turning Data into Insights • Building Real-World AI Projects
-</p>
+I am a Computer Science student from India with a passion for transforming raw data into actionable insights. My journey involves building real-world AI projects and continuously learning the latest in the field. I'm driven by a goal to become an industry-ready Machine Learning Engineer.
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Aspiring+Data+Scientist;Machine+Learning+Engineer;Python+%7C+SQL+%7C+Machine+Learning;Building+Real-World+Projects;Always+Learning+🚀" />
-</p>
+🔭 **Currently exploring:** The depths of Machine Learning, Deep Learning, Data Engineering, and MLOps.
+
+💬 **My mantra:** "Learn. Build. Share. Repeat."
 
 ---
 
-# 👨‍💻 About Me
+## 🚀 Tech Stack & Tools
 
-🎓 Computer Science Student from India
+Here are some of the technologies I work with:
 
-📊 Aspiring Data Scientist & Machine Learning Engineer
+**Languages:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-💻 Passionate about Python, SQL, Data Analytics & AI
-
-🌱 Currently learning
-
-- Machine Learning
-- Deep Learning
-- Data Engineering
-- MLOps
-
-🎯 Goal
-
-To become an industry-ready Machine Learning Engineer by building real-world projects.
+**Data Science & ML:**
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ---
 
-# 🚀 Tech Stack
+## 📂 Featured Projects
 
-### Languages
+Here are some of the key projects I've worked on:
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode" />
-</p>
+### 🛒 E-Commerce Product Intelligence
+An end-to-end data science project covering the entire lifecycle.
+- **Highlights:** Data Cleaning, Exploratory Data Analysis (EDA), SQL Analysis, Machine Learning, Customer Analytics, and an interactive Power BI Dashboard.
 
-### Data Science
+### 😊 Customer Sentiment Analysis
+Analyzing customer feedback to understand sentiment.
+- **Highlights:** Natural Language Processing (NLP), TF-IDF Vectorization, and building a Machine Learning model for sentiment prediction.
 
-- Pandas
-- NumPy
-- Matplotlib
-- Scikit-Learn
-- Power BI
-- Jupyter Notebook
+### 🤖 Machine Learning Project Portfolio
+A collection of diverse ML projects demonstrating various techniques.
+- **Highlights:** Regression, Classification, Clustering, and comprehensive Feature Engineering.
 
----
-
-# 📂 Featured Projects
-
-## 🛒 E-Commerce Product Intelligence
-
-✔ Data Cleaning
-
-✔ Exploratory Data Analysis
-
-✔ SQL Analysis
-
-✔ Machine Learning
-
-✔ Customer Analytics
-
-✔ Power BI Dashboard
+*For a complete list of my projects, please check my repositories below.*
 
 ---
 
-## 😊 Customer Sentiment Analysis
+## 🗺️ My Learning Roadmap
 
-✔ NLP
+A visual representation of my ongoing journey to mastering data science and AI.
 
-✔ TF-IDF
-
-✔ Sentiment Prediction
-
-✔ Machine Learning
-
----
-
-## 🤖 Machine Learning Projects
-
-✔ Regression
-
-✔ Classification
-
-✔ Clustering
-
-✔ Feature Engineering
-
----
-
-# 📈 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Nikhildongare123&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhildongare123&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Nikhildongare123&theme=tokyonight"/>
-
-</p>
-
----
-
-# 📊 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nikhildongare123&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🎯 Learning Roadmap
-
-✅ Python
-
-✅ SQL
-
-✅ Data Analysis
-
-🔄 Machine Learning
-
-🔄 Deep Learning
-
-🔄 NLP
-
-🔄 Data Engineering
-
-🔄 MLOps
-
-☁️ Cloud (AWS)
-
----
-
-# 💼 Open To
-
-✔ Data Science Internship
-
-✔ Machine Learning Internship
-
-✔ Python Developer Internship
-
-✔ Data Analyst Internship
-
----
-
-# 📫 Connect With Me
-
-GitHub
-
-https://github.com/Nikhildongare123
-
-LinkedIn
-
-(Add Your LinkedIn URL)
-
-Email
-
-(Add Your Email)
-
----
-
-# 💬 Quote
-
-> **"Learn. Build. Share. Repeat."**
-
----
-
-<p align="center">
-
-⭐ Thanks for visiting my GitHub Profile ⭐
-
-</p>
+```mermaid
+graph LR
+    A[✅ Python] --> B[✅ SQL];
+    B --> C[✅ Data Analysis];
+    C --> D[🔄 Machine Learning];
+    D --> E[🔄 Deep Learning];
+    E --> F[🔄 NLP];
+    F --> G[🔄 Data Engineering];
+    G --> H[🔄 MLOps];
+    H --> I[☁️ Cloud (AWS)];
