@@ -1,43 +1,43 @@
 <h1 align="center">Hi 👋, I'm Nikhil Dongare</h1>
 
 <h3 align="center">
-🚀 Aspiring Data Scientist | Machine Learning Engineer | Python Developer
+Aspiring Data Scientist | Machine Learning Engineer | Python Developer
 </h3>
 
 <p align="center">
-Building End-to-End Data Science, Machine Learning & AI Projects
+Turning Data into Insights • Building Real-World AI Projects
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Aspiring+Data+Scientist;Machine+Learning+Engineer;Python+Developer;SQL+%7C+Power+BI+%7C+NLP;Always+Learning+New+Things+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Aspiring+Data+Scientist;Machine+Learning+Engineer;Python+%7C+SQL+%7C+Machine+Learning;Building+Real-World+Projects;Always+Learning+🚀" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-🎓 Computer Science Student
+🎓 Computer Science Student from India
 
-📊 Passionate about Data Science & Analytics
+📊 Aspiring Data Scientist & Machine Learning Engineer
 
-🤖 Learning Machine Learning, NLP & MLOps
+💻 Passionate about Python, SQL, Data Analytics & AI
 
-💻 Building Real World Data Science Projects
+🌱 Currently learning
 
-📈 Interested in AI, Data Engineering and Business Intelligence
+- Machine Learning
+- Deep Learning
+- Data Engineering
+- MLOps
 
-🌱 Currently Working On
+🎯 Goal
 
-- 🛒 E-Commerce Product Intelligence Project
-- 😊 Customer Sentiment Analysis
-- 📊 Power BI Dashboard
-- 🤖 Machine Learning Portfolio
+To become an industry-ready Machine Learning Engineer by building real-world projects.
 
 ---
 
 # 🚀 Tech Stack
 
-### Programming
+### Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode" />
@@ -45,25 +45,22 @@ Building End-to-End Data Science, Machine Learning & AI Projects
 
 ### Data Science
 
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,sklearn" />
-</p>
-
-**Libraries**
-
 - Pandas
 - NumPy
 - Matplotlib
 - Scikit-Learn
 - Power BI
+- Jupyter Notebook
 
 ---
 
 # 📂 Featured Projects
 
-### 🛒 E-Commerce Product Intelligence
+## 🛒 E-Commerce Product Intelligence
 
 ✔ Data Cleaning
+
+✔ Exploratory Data Analysis
 
 ✔ SQL Analysis
 
@@ -75,29 +72,31 @@ Building End-to-End Data Science, Machine Learning & AI Projects
 
 ---
 
-### 😊 Customer Sentiment Analysis
+## 😊 Customer Sentiment Analysis
 
 ✔ NLP
 
 ✔ TF-IDF
 
-✔ Machine Learning
-
 ✔ Sentiment Prediction
 
----
-
-### 📊 Power BI Dashboard
-
-✔ Sales Dashboard
-
-✔ Customer Dashboard
-
-✔ Product Dashboard
+✔ Machine Learning
 
 ---
 
-# 📈 GitHub Statistics
+## 🤖 Machine Learning Projects
+
+✔ Regression
+
+✔ Classification
+
+✔ Clustering
+
+✔ Feature Engineering
+
+---
+
+# 📈 GitHub Stats
 
 <p align="center">
 
@@ -119,16 +118,6 @@ Building End-to-End Data Science, Machine Learning & AI Projects
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Nikhildongare123&theme=tokyonight&row=1&column=6"/>
-
-</p>
-
----
-
 # 📊 Contribution Graph
 
 <p align="center">
@@ -139,42 +128,64 @@ Building End-to-End Data Science, Machine Learning & AI Projects
 
 ---
 
-# 🎯 2026 Goals
+# 🎯 Learning Roadmap
 
-✅ Master Machine Learning
+✅ Python
 
-✅ Learn Deep Learning
+✅ SQL
 
-✅ Build 20+ End-to-End Projects
+✅ Data Analysis
 
-✅ Learn Data Engineering
+🔄 Machine Learning
 
-✅ Learn MLOps
+🔄 Deep Learning
 
-✅ Contribute to Open Source
+🔄 NLP
+
+🔄 Data Engineering
+
+🔄 MLOps
+
+☁️ Cloud (AWS)
 
 ---
 
-# 🌐 Connect With Me
+# 💼 Open To
 
-<p>
+✔ Data Science Internship
 
-<a href="https://github.com/Nikhildongare123">
+✔ Machine Learning Internship
+
+✔ Python Developer Internship
+
+✔ Data Analyst Internship
+
+---
+
+# 📫 Connect With Me
+
 GitHub
-</a>
 
-</p>
+https://github.com/Nikhildongare123
+
+LinkedIn
+
+(Add Your LinkedIn URL)
+
+Email
+
+(Add Your Email)
 
 ---
 
-# 💡 Quote
+# 💬 Quote
 
-> **"Without data, you're just another person with an opinion." — W. Edwards Deming**
+> **"Learn. Build. Share. Repeat."**
 
 ---
 
 <p align="center">
 
-⭐ Thanks for visiting my profile ⭐
+⭐ Thanks for visiting my GitHub Profile ⭐
 
 </p>
